@@ -1,1 +1,1 @@
-# caption-generator
+# caption generator
